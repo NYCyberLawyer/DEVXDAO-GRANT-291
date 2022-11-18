@@ -1,0 +1,454 @@
+https://recordings.tapeacall.com/t/7ajTmv79stQR
+
+00:05
+Speaker 1 
+ Alright, good morning. Can you hear me? I can
+
+00:08
+Speaker 2 
+ hear you. Good morning.
+
+00:10
+Speaker 1 
+ Fantastic. So um I know we've had a chance to talk previously, but just for the sake of the interview, uh would you, would you introduce yourself and just kind of a
+
+00:22
+Speaker 2 
+ quick
+
+00:23
+Speaker 1 
+ couple sentences about your background?
+
+00:25
+Speaker 2 
+ Yeah, sure. Uh my name is Chris, I am a lawyer based out of Australia, I have a Web free and Fintech practice
+
+00:34
+Speaker 1 
+ in Australia. And
+
+00:36
+Speaker 2 
+ um I've been, I've been in the space for,
+
+00:39
+Speaker 1 
+ I
+
+00:39
+Speaker 2 
+ guess following it from a distance for a number of years, 66 or so years, uh and then, you know, very closely
+
+00:47
+Speaker 1 
+ the past
+
+00:47
+Speaker 2 
+ three years, I've been practicing law assisting, you know, a number of web, three projects. Um and yeah, basically that that's sort of my background, I'm currently in new york, and looking to expand
+
+00:59
+Speaker 1 
+ my
+
+01:00
+Speaker 2 
+ practice in
+
+01:01
+Speaker 1 
+ to the U.
+
+01:02
+Speaker 2 
+ S as well, because you know, that's where I see some of the big opportunities. So yeah, it's a bit about me,
+
+01:08
+Speaker 1 
+ that's great. And uh thanks for taking the time for this, um that you're uh rather knowledgeable about the sector. And I thought that you'd be a uh wonderful person to provide some, additional uh, input and uh, information regarding
+
+01:23
+Speaker 2 
+ douse,
+
+01:25
+Speaker 1 
+ so
+
+01:25
+Speaker 2 
+ this is
+
+01:25
+Speaker 1 
+ Gonna be uh three questions. And so I'll just fire away the first question
+
+01:30
+Speaker 2 
+ I believe
+
+01:32
+Speaker 1 
+ is the legislative intent
+
+01:33
+Speaker 2 
+ of
+
+01:34
+Speaker 1 
+ many regulatory efforts for
+
+01:35
+Speaker 2 
+ dowse, in
+
+01:36
+Speaker 1 
+ other words, what are the risks that
+
+01:38
+Speaker 2 
+ you see
+
+01:38
+Speaker 1 
+ regulators recognized and want to address.
+
+01:42
+Speaker 2 
+ Yeah, it's a good question. Um the intent of regulators in my view is I think two fold, um, and, and I'll start with sort of the, the, the key concern for regulators, which is usually, you know, consumer protection. Um, so whenever I dial, sort of interacts with the public, the regulator has identified a particular issue, which is, who's responsible for the activities. And how difficult is it to effectively hold the doubt accountable for what they do,
+
+02:17
+Speaker 1 
+ and how,
+
+02:18
+Speaker 2 
+ and you know, how they interact with others. So I think, you know, from my perspective, the intent of a lot of the regulations is to create a single point at
+
+02:30
+Speaker 1 
+ which the uh,
+
+02:31
+Speaker 2 
+ the public or people interacting with the doubt or regulators, and bring proceedings
+
+02:38
+Speaker 1 
+ against them.
+
+02:40
+Speaker 2 
+ Uh, So I guess it's, it's the yeah, have have someone accountable. Um, and yeah, I identify, you know, certain members of the Dell, so that that'll be the first one, and I think that's the regulatory intent there, um, the second is protecting the actual members of the dow from the actions of other members of the dow. So currently, um, the dow is down in most jurisdictions are considered to be unincorporated, joint ventures or general partnerships, um, and what that effectively means is people, uh in the dow effectively joint and severally liable for the actions of others.
+
+03:24
+Speaker 1 
+ Um, so this,
+
+03:25
+Speaker 2 
+ this causes a problem, of course, particularly when you have a, you know, a few rogue actors
+
+03:30
+Speaker 1 
+ who
+
+03:31
+Speaker 2 
+ are part of the dow, um, you know, I guess, you know, if they sort of go off path, they could bring down other members of the dow and make them sort of liable for their actions. So that's sort of a concern there. So you know, when when it comes to, you know, down regulation, what the regulators are trying to do is give the members of the dow um some form of protection similar to, you know, uh the current corporate laws that exists in, you know, very serious
+
+04:03
+Speaker 1 
+ addictions.
+
+04:03
+Speaker 2 
+ So providing, you know, down members,
+
+04:07
+Speaker 1 
+ the
+
+04:07
+Speaker 2 
+ corporate protections of, you know, separate legal personality, like again an L. L. C. Or a C. Corp or something of that nature.
+
+04:16
+Speaker 1 
+ All right. Good point actually. Um I'll make sure to put that in uh, to to site that in a few conversations about Dallas, it's a good point. The uh so the next question actually is specifically about governance, so as you're probably well aware of Dallas have a very interesting
+
+04:36
+Speaker 2 
+ governance
+
+04:37
+Speaker 1 
+ structure that have resulted in a lot of internal issues and external perception issues. So what are the,
+
+04:45
+Speaker 2 
+ what
+
+04:45
+Speaker 1 
+ are some of the key governance issues do you think that face today? Yeah.
+
+04:50
+Speaker 2 
+ Well uh let's sort of, you know, I guess call it out, some dolls are not actually, is right. Um
+
+04:58
+Speaker 1 
+ I think we've seen
+
+04:58
+Speaker 2 
+ a few, a few instances in the past, and I've certainly dealt with a few businesses who claimed to be a dower or just tack on the dow at the end of
+
+05:08
+Speaker 1 
+ their, at
+
+05:09
+Speaker 2 
+ the end of their name, at the end of the business name, um because I don't know, it sounds cool or it helps get funding or whatever the case might be. So, you know, I think, I think there are a variety of structures of what, you know,
+
+05:20
+Speaker 1 
+ that you
+
+05:20
+Speaker 2 
+ can use for in terms of
+
+05:22
+Speaker 1 
+ governance.
+
+05:23
+Speaker 2 
+ Um again, some are really superficial, some of, you know,
+
+05:26
+Speaker 1 
+ not
+
+05:27
+Speaker 2 
+ doubt at all, really in the technical sense, and again, they're just a community of people sort of interacting on, on a discord server. Uh But you know, that aside, let's look at, you know, some of the other structures and governance structures that other dolls who are, you know, I guess sort of more on the satisfied the definition of a doubt. Um, So some of them are not as centralized as others, uh or sorry, not as decentralized as others. So depending on
+
+05:58
+Speaker 1 
+ the
+
+05:59
+Speaker 2 
+ I guess token distribution and the governance structure and the powers that are granted to each member, um, you know, you you can see sometimes that the decision making is not always is not as decentralized as um
+
+06:18
+Speaker 1 
+ as
+
+06:19
+Speaker 2 
+ some other doubts. So again, what that creates is, I guess, uneven sort of power distribution, and again if the power and decision making is, you know, more centralized and and controlled by a smaller group of people, then
+
+06:35
+Speaker 1 
+ again, you
+
+06:36
+Speaker 2 
+ you could have sort of dissent or some uh conflict between down members, if that is ever to occur. Um The other thing again I think we've touched on it before sometimes they're sort of not as autonomous as um, uh so another thing yeah again doubts might not be as autonomous as some of the Dallas um as I mentioned again depending on the technology that people use and depending on how the actual the actual data structure from a technology perspective, uh it may not be as sophisticated and all autonomous as again some other sort of well structured dolls. So I would say that would be another thing, and um
+
+07:21
+Speaker 1 
+ again
+
+07:22
+Speaker 2 
+ the the organizational component
+
+07:24
+Speaker 1 
+ is
+
+07:25
+Speaker 2 
+ another
+
+07:27
+Speaker 1 
+ I
+
+07:27
+Speaker 2 
+ guess thing to consider as well again, uh I think based on the rights granted to members and the way the doubt sort of operates, uh we have to consider, you know, we have to understand whether the dow is considered a sponsorship and unincorporated joint venture or you know if it's incorporated like say for example in Wyoming um you know that could change the way the the governance of the doubt sort
+
+07:57
+Speaker 1 
+ of
+
+07:57
+Speaker 2 
+ the government structure of the doubt as well. So, um I think there are some uh some some of the key points on that point.
+
+08:06
+Speaker 1 
+ That's great, that's pretty uh pretty comprehensive, I like that um, until that takes us to our uh last question, which is you know kind of putting the
+
+08:16
+Speaker 2 
+ shoes
+
+08:17
+Speaker 1 
+ on of being a down member if you were part of a
+
+08:21
+Speaker 2 
+ would
+
+08:21
+Speaker 1 
+ you suggest uh that the incorporate in one or another jurisdiction? And if so why
+
+08:29
+Speaker 2 
+ mm Yeah this is an interesting one. Um So disclaimer this is not legal advice, this is just you know some information that I'm happy to share. Uh
+
+08:40
+Speaker 1 
+ the
+
+08:41
+Speaker 2 
+ this is a hard question because it usually depends on what the doubt does. So I get this question a lot, um you know whether to sort of incorporate or whether to keep it
+
+08:50
+Speaker 1 
+ sort of you know
+
+08:52
+Speaker 2 
+ um
+
+08:54
+Speaker 1 
+ Yeah you know
+
+08:54
+Speaker 2 
+ whether it be anonymous, whether it'd be synonymous um or some sort of mixture of the two. Um, it depends on what the activities of the doubt. Ah Right um I would always argue that you know that's sort of a key concern um as a general rule I'd like to say you know if if the dow is gonna interact with a
+
+09:16
+Speaker 1 
+ with
+
+09:17
+Speaker 2 
+ Other people, so other 3rd parties, then it's probably a good idea to incorporate, uh you know, it solves a lot of the issues in terms of you know, understanding what the dow is and if you do interact with, a lot of third
+
+09:34
+Speaker 1 
+ parties
+
+09:34
+Speaker 2 
+ and it solves, again it sort of eliminates some of the ambiguity as to who
+
+09:41
+Speaker 1 
+ the
+
+09:41
+Speaker 2 
+ Entity or who the 3rd party is interacting with. So, um you know it you know that that solves a lot of liability issues, sort of enforcement issues or like uh enforcing contractual rights issues so I think incorporating is good from that perspective, it helps basically helps you do business with others. Um It also helps with, you know, getting services to support the doubt. Uh a good example is like a bank account. Again, uh banks can provide accounts to businesses and you know, if you're incorporated, then again the the bank knows who you are and uh is sort of more willing to be able to provide you with that type of account. Um And then you also have, you know, all of your, you no doubt activities sort of
+
+10:31
+Speaker 1 
+ um
+
+10:32
+Speaker 2 
+ bucketed and and um associated with that particular entity rather than, you know, various members contributing various
+
+10:41
+Speaker 1 
+ services
+
+10:42
+Speaker 2 
+ and and and um, very expensive sort of going all over the place, you keep it centralized and you keep it in uh that sort of structure. Um and and and you know, again based on your activities, you might want some like you know protection uh that is afforded to you by some of these regulations. So Wyoming is a great example, so if you enter into a doubt, you wanna make sure that, you know what I, my liability
+
+11:09
+Speaker 1 
+ is limited to,
+
+11:11
+Speaker 2 
+ you know, the amount that I paid for
+
+11:12
+Speaker 1 
+ my token
+
+11:13
+Speaker 2 
+ or something. Um So incorporating from that perspective gives you again the same protection as you would expect from an L L C or C corp or something. So, um I would I would say that those reasons are really compelling for incorporation, but of course, you know, if you're, if you're sort of operating an online community and and and don't necessarily interact with a large group of, you know, a huge number of third parties, then maybe, you know, you can keep it relatively simple, keep it, keep your activities online and you don't necessarily need to go down the path of incorporation.
+
+11:48
+Speaker 1 
+ So
+
+11:49
+Speaker 2 
+ um, yeah, i it it always does depend on, you know, what you're doing and what the facts are. But uh you know, I would sort of lean more towards incorporation primarily for like liability protection, and
+
+12:02
+Speaker 1 
+ you know,
+
+12:02
+Speaker 2 
+ simplicity of doing business with others that that would be my takeaways and why it means a great jurisdiction as well in terms of, you know, where would you incorporate? Yeah, I would I would I would look to Wyoming for that.
+
+12:16
+Speaker 1 
+ That sounds great. So uh, um I think it's really good advice as dials uh consider whether or not they wanna register in a jurist Ation.
+
+12:25
+Speaker 2 
+ So
+
+12:26
+Speaker 1 
+ some of the considerations as to where and why and um thank you for your
+
+12:30
+Speaker 2 
+ time.
+
+12:31
+Speaker 1 
+ I appreciate
+
+12:32
+Speaker 2 
+ it. I'll
+
+12:33
+Speaker 1 
+ hang up and I'll give you a call right back.
+
+12:35
+Speaker 2 
+ All right, man. Thanks.
+
+12:37
+Speaker 1 
+ Thank you
+
