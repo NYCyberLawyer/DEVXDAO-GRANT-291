@@ -1,0 +1,590 @@
+https://recordings.tapeacall.com/t/HKXwY25Ac2w3
+
+00:04
+Speaker 1 
+ Hi, good morning,
+
+00:05
+Speaker 2 
+ Marco anna bailey. Um, thanks for taking the time
+
+00:09
+Speaker 1 
+ for
+
+00:09
+Speaker 2 
+ this, um, interview for the purpose of a milestone for a dial project. Um, first off. Um, would you like to just, uh, introduce yourself and let us know what your experience maybe with
+
+00:29
+Speaker 1 
+ Sure. Uh, my name is, uh, and, uh, I officially currently operate a Swiss Association, which is the legal shield for a dial that operates the developer fund, uh, initially sponsored by Casper labs, uh, Casper Association and the Casper network at large. Um, their focus is on building, uh, or funding the building of, uh, research and, or software development that furthers decentralization in an open source way. Um, aside from that, I've been consulting on the design of dowse for three years now. Um, and most recently, uh, I'm setting up to other, uh, protocol dowse. These would be that are designed to run the layer one protocol, uh, for a particular project, uh, therefore deciding on, you know, what updates get done, what updates don't what features need to be done and not done and do any tweaks needs to be done to the, uh, the, the way that protocol works itself. So things like seniors rates, changes, uh, allocations of the treasury, those kinds of things?
+
+01:57
+Speaker 2 
+ That's great. Thank you. And thanks for taking the time for this conversation.
+
+02:01
+Speaker 1 
+ My
+
+02:01
+Speaker 2 
+ pleasure.
+
+02:02
+Speaker 1 
+ Great. So
+
+02:03
+Speaker 2 
+ there's, uh, three questions. And the first question is, uh, what do you believe has been the intent of many legislative and regulatory efforts to regulate dowse, including the, uh, Wyoming regulation
+
+02:19
+Speaker 1 
+ and when you, and this, this is, uh, one can draw almost direct line parallel to Cryptocurrency and the regulator, the regulatory attempts to regulate Cryptocurrency. Um, we're seeing the sort of the ongoing fall out of that currently, um, where Cryptocurrency is a, concept, I suppose the best way to put it, uh, founded in the idea that regulation is unnecessary. Um, and we could dig deeply into that if if you want. But for now, um, a dow is the same, conceptually in the sense that it is a, an organization collective, uh, organization of people, uh in a structure that, is ideally not requiring regulation, uh, because the, things that regulators normally take care of, if you will, uh, are handled by the definitions of the software that allows the doubt to operate. Uh, not that a down necessarily requires software, but software is the, uh, the world we live in now, where we, we start to realize that software can do a lot of the things that used to be, uh, used to require a third, trusted third parties for verification, for accountability and things like that. And our new world Blockchain, uh, environment allows for the, uh, software driven management of accountability, and uh, responsibility for actions, uh, removing the need to have the lawyer check everything twice and uh, and, uh, board of directors, uh, overseeing executive actions, those kinds of things. Cool. Excuse me. Um, so I think when you see regulators coming in and trying to, uh, define, uh, in a regulatory framework, you have a bit of a problem, because, while one can argue doubts, don't have legal standing, uh because they're not registered anywhere or regulated in any way, um, they don't, need it either. Uh and this is the, the conundrum we run run up against because it's very difficult to bring a new model, if you will, uh, into our existing worlds ecosystems, um, without having people able to sort of in their head, understand this is what it is, they need some kind of a paradigm or a metaphor that they're comfortable with already. And Dallas don't really provide that the pure concept of a doubt, because it is literally something brand spanking new. Uh, so the attempt currently has been by regulators to say, well, fine, we don't really understand or don't really wanna look too deeply in some cases into what really should be, we're gonna look at it and say, okay, let's, let's see what we can do with with the concept of, and as you saw in Wyoming and the Marshall Islands and uh I'm sure there's others out there, uh that will be putting their horns soon that there's a legal rec recognition of dowse is not legal recognition of dowse, it is definition of a regulated herbal doubt. Uh the Wyoming, for example, when I read the legislation, I I
+
+06:32
+Speaker 2 
+ realized
+
+06:33
+Speaker 1 
+ it was pretty much an L L C, with a slightly looser governance, uh, definitions that would permit the concept of a decentralized governance model, uh to be used while still being a registered LLC. And to be fair, I haven't really come across, uh any restrictions in existing LLC definitions that would preclude you from, doing the same thing, in other words, registered an LLC, but run it like A. Uh, so uh the the the let's be fair, this is early days, but we may, we may find regulators coming up with more creative and or innovative solutions to this. Uh but that in and of itself brings up another problem uh with dowse, uh because it brings up the question of autonomy and that's what the A and means.
+
+07:42
+Speaker 2 
+ Does
+
+07:43
+Speaker 1 
+ that answer the question
+
+07:44
+Speaker 2 
+ that does, that's a that's a great answer. Um, in a in our research, we found that uh, a lot of people try to contextualize uh innovative vehicles, like into what they already understand and sometimes it just doesn't fit. So um sometimes it does, if you uh craft the regulation generally enough for uh new enough to address only one or another specific issues, but um seems there's definitely a conflict between uh the uh a and
+
+08:17
+Speaker 1 
+ and
+
+08:17
+Speaker 2 
+ the fact that there are regulators that want to uh regulate them. So um and that takes us kind of to the next question,
+
+08:26
+Speaker 1 
+ which
+
+08:26
+Speaker 2 
+ is okay if the regulator is trying to regulate a doubt from the outside, the dow in terms of regulating itself has a lot of governance considerations. So um in your experience, are there any doubt governance issues that uh you can speak to that, um have that have existed before, during or after, or even irrespective of any regulation on,
+
+08:55
+Speaker 1 
+ uh, I mean, you get right down to when you're talking specifically just staying within the concept of the regulated, um and therefore, effectively having to ignore autonomy. Um
+
+09:15
+Speaker 2 
+ really
+
+09:16
+Speaker 1 
+ all you're, you're, you're working at that point is, your governance um, in the dow is boxed if you will, there's a it's a large box, right, There's lots of room to play around inside, but that you're inside that box, you cannot step outside it, um and that boxes, whatever regulatory regime you're currently working under, um, you know, you can't be breaking any federal laws. Obviously you can't be breaking any state laws. Um
+
+09:53
+Speaker 2 
+ you
+
+09:53
+Speaker 1 
+ can't um, do a lot of things that are possible to do in a software driven uh autonomous organization, uh that you could do uh with, with just purely looking at a software solution, you can't do those because obviously there are reporting requirements, there are uh legal sign offs and things like that that are required for certain types of activities, you know, large, uh, large asset purchases, things like that, that, limit your governance, your governance abilities, and those, because you're generally running this, um governance uh function
+
+10:36
+Speaker 2 
+ in
+
+10:36
+Speaker 1 
+ software, with obviously with uh uh member uh participation, but it's a software system that does this, you have to design your software system in such a way that, ideally it stops you from doing the things you're not allowed to do, uh, limiting you only to the things you are allowed to do. Um, and that makes your design of your government system somewhat more complex, especially given the fact that regulations are fairly fresh in the space, and you can likely expect expect them to change. Uh
+
+11:12
+Speaker 2 
+ this
+
+11:13
+Speaker 1 
+ presents a problem, uh, less for regular software and more for Blockchain software. Because as we all know, block chains are immutable records. And now when you have to update your immutable software, um, on chain, uh, you're looking at a much larger expense, uh, in terms of first designing, how you're going to implement the changes that the regulators have now added to the mexican of uh law, um, you also have to figure out how to do it cost effectively, and how to test the heck out of it before you implement it, to make sure you're not breaking anything else. And that's expensive. So I think that's one major sort of governance, issue, you come across the rest of them really aren't specific to, uh whether your dad is regulated or not, um, because they're just human issues, um, the amount of people who have, uh, you know, voiced opinions, uh,
+
+12:23
+Speaker 2 
+ you
+
+12:23
+Speaker 1 
+ know, you you can't be decentralized or you can't start decentralized, You have to start centralized and then you can move to decentralized. Uh, I haven't seen too many examples, I think maybe might be one of a doubt. Ow, that went from centralized to decentralized and you know, is the exception only because you have to understand that that community is fanatical about pure, uh, if you will, so there was always going to be a large community of people pushing very hard for the centralization. Uh but most communities, you know,
+
+13:03
+Speaker 2 
+ that
+
+13:04
+Speaker 1 
+ are forming up around these uh, data type operations, aren't particularly motivated to decentralize. And so when it comes, you know, quote unquote time to decentralize, they waffle, they take their time, they they they say there's more considerations to take into place. And it's very difficult and hard and uh it was wonderful things that they love to say excuses. Um, but the centralization actually, when you get right down to, it is, very, very simple. Um and uh to this day about it baffles me, when I watch, you know, experts presenting and forms and uh, conferences and saying, you know, there's, there's a lot of really difficult intricacies here, I mean, it comes right down to it governance in a is uh, effectively one man one vote. And non representative in other words, you cannot proxy, your vote, you must vote. The entire, purpose of is to get the collective intelligence of the entire user base, whatever that is to participate in the governance of that user base. Uh One of the favorite things I like to tell everybody about it is everybody who is affected by the decision should have a voice in the decision. Um, It's only, you know, obviously with the uh uh the last 40 years growth of the internet, the last 20 years growth of uh distributed computing through the little thing you were talking on right now, the smartphone, uh and then of course the last 10 years with uh immutable distributed software under the guise of a block chain, um
+
+14:57
+Speaker 2 
+ It's
+
+14:57
+Speaker 1 
+ only really now that it's become possible uh to do one man one vote on any and all topics, um there are all sorts of efficiency uh things that you lose, I suppose would be the way to put it, you know, it's a lot easier to get um Congress to come to a decision than the american people, If you think of it that from that scale level, uh But if the american people were being presented with the decisions that congress is making on a day to day basis, and they were broken down into the actual decisions that are being made, um, I think you would find uh that with just a little bit of um, I would have to do this, I would suggest that this would be done with software, but summarizations of what is the decision being made and what is the impact of that decision to you locally, regionally and nationally, uh, that you could see um, participatory government, working better. Uh, Obviously we're, we're back at that same situation, uh which is the amount of decisions that have to get made at the, governance level for any kind of an organization, often appear to be too many. Uh you know, you'd spend nothing. Uh you'd spend no time doing other than, you know, voting for example, all day, uh if you were required to actually directly participate in your um, in your in the governance of the world around you. And, that's a tricky one. No, no argument. There's the argument for partitioning uh decision making to random pools of experts, or random pools of everybody. Uh I prefer the everybody because expert is such a uh
+
+17:02
+Speaker 2 
+ a
+
+17:02
+Speaker 1 
+ misnomer in many cases. Um
+
+17:07
+Speaker 2 
+ I
+
+17:07
+Speaker 1 
+ mean people call me an expert and I'm well aware, I'm not an expert in anything. I know a lot about a lot of things, but I don't know everything about anything. Um, I
+
+17:18
+Speaker 2 
+ think your knowledge about this space, uh and your
+
+17:22
+Speaker 1 
+ sort of
+
+17:23
+Speaker 2 
+ knowledge being um working with,
+
+17:27
+Speaker 1 
+ you know,
+
+17:27
+Speaker 2 
+ qualifies you a little bit as an expert more so than some,
+
+17:30
+Speaker 1 
+ so, I have more knowledge about it than some. Yes. Uh, The term expert confirms, in the world in the general, i of the world to me, it confirms Godlike on missions. Uh Oh, he's an expert. We believe him. Bye. That's that's a good thing.
+
+17:54
+Speaker 2 
+ I do believe there are some people who are parts of who believe they may be experts with that sort of omniscient, uh, on the component, but I believe that's for a different. Um, yeah, so
+
+18:09
+Speaker 1 
+ I
+
+18:09
+Speaker 2 
+ mean, I think that you upon a lot of great issues about governance, um, about kind of 1000 general, how they can operate, um, how the the, the what the ideal of a doubt is, and you did make a very good point of if we dealt with every issue of governance around
+
+18:31
+Speaker 1 
+ us.
+
+18:32
+Speaker 2 
+ Um, I actually, I felt like I needed a quick coffee before actually hearing that statement because, um, and
+
+18:43
+Speaker 1 
+ yeah, well, I mean, that covers the decentralization piece reasonably well, and, and there are solutions out there and mathematicians to figure this out centuries ago, literally. Um, but uh, you can have a fully decentralized governance, uh, system, if you will, where everybody participates, but everybody's not making decisions on every decision. Uh, they are random pooled. Um, so you'll, you'll get, you'll get five decisions you have to make today, uh, and someone else will have a different five, some of them may be the same, as yours, but some of them might be different and collectively, overall membership in the governance model. You're covering with a broad spectrum of, of input, but this is all the decisions that have to be made and no one knows which ones they're gonna get because they're done randomly. Yeah,
+
+19:42
+Speaker 2 
+ well
+
+19:43
+Speaker 1 
+ that gets you the decentralization you're searching for the autonomy is another interesting piece. Uh, and this is the one that the regulators have a lot of problems with, let's, let's for, I mean obviously the organization is supposed to be autonomous, other words, no limits on its actions other than the consequences of his actions. Um, that's uh that's the global view, that's the looking at the as an entity standing, uh you know, from a 3rd, 3rd person perspective, you're not in it, you're looking at it. Um but then when you're in it, autonomy is, almost non existent in any that I've come across, um
+
+20:26
+Speaker 2 
+ in
+
+20:27
+Speaker 1 
+ the in the wild, if you will, um they're obviously not as a doubt, generally they're not autonomous because they are subject to, conversion by public opinion, because they announce and market themselves. So there's there's sort of like that's a reduction in autonomy because you're broadcasting your what you do imagine, you know, if you were, uh somebody who's moving around in the world, doing things and everything you do was under a microscope, would you feel autonomous
+
+21:00
+Speaker 2 
+ or
+
+21:00
+Speaker 1 
+ would you feel you have to bend to the will of the audience?
+
+21:06
+Speaker 2 
+ Mm
+
+21:07
+Speaker 1 
+ Right. So there's an autonomy problem for the uh now, mind you, it could be a large, you know, thousands of members and whatnot, uh and collectively it might not bend to public opinion at all. But every single member of the dow is going to be aware of the public opinion, and that will color their perspectives on decisions being made by the dow, that's you, that's unavoidable, that's human nature. Um, The problem really comes up when you're talking about what goes on inside the dow, ideally inside the dow membership is anonymous.
+
+21:50
+Speaker 2 
+ The
+
+21:50
+Speaker 1 
+ reason for this is not to hide what you do. Uh in the sense of, you know, hiding from, you know, you do bad things and you don't want people to know it. Um or you do things that you're just ashamed of, or you think would be a shame full if people found out about them, you know, maybe they're not bad. They're just things you don't want people to know, that's what the that's not what the anonymity is for the anonymity is, is because, you cannot participate in collective governance with full autonomy. If people within the space, you know who you are, and how you vote, and how you vote, is unfortunately public record inside of that, it has
+
+22:36
+Speaker 2 
+ to be,
+
+22:36
+Speaker 1 
+ there has to be that transparency of all the votes were cast and how they were cast. Uh So the only option for you to retain your personal autonomy is that have nobody able to say that uh you were the one who voted, that way, personally, you accomplish that by making sure that nobody knows who anybody else is,
+
+23:02
+Speaker 2 
+ it's very interesting, the human element element is impacting governance. I think that's a very good point. Um I think uh you know, to a certain extent, even if people were anonymous, other, people would still trying to find out who voted one way or the other, and it's uh just human nature to want to find out how the system
+
+23:20
+Speaker 1 
+ works.
+
+23:21
+Speaker 2 
+ And uh, ideally a doubt could be would be completely automated,
+
+23:25
+Speaker 1 
+ completely
+
+23:26
+Speaker 2 
+ anonymous, but I don't think we're there yet. And then uh as there's
+
+23:31
+Speaker 1 
+ not publicly, that's the beautiful, the beautiful thing about uh is that a well structured, well formed ow would operate, without anyone knowing it was operating, including its members, uh knowing who each other are, members will be aware of what the dow was doing because they're participating in his governance, but they wouldn't know who each other are, and the outside world would not know about the dow because the members of the Dow would not be talking about the Dow,
+
+24:08
+Speaker 2 
+ they
+
+24:09
+Speaker 1 
+ would just be acting
+
+24:14
+Speaker 2 
+ mm
+
+24:14
+Speaker 1 
+ one can
+
+24:15
+Speaker 2 
+ help you get to that point,
+
+24:17
+Speaker 1 
+ regulators wouldn't like it very much because that puts a potential large player on the board. If you think of um, you know,
+
+24:25
+Speaker 2 
+ global
+
+24:26
+Speaker 1 
+ geopolitical dynamics as um collection of pieces on the chessboard, if you will, some of them are countries other than others are, you know, billionaires, sovereign wealth funds and things like that. Um, now there's a player on the board, but you can't see them.
+
+24:46
+Speaker 2 
+ So I guess to uh to the next topic, which is whether or not it is
+
+24:53
+Speaker 1 
+ fully
+
+24:54
+Speaker 2 
+ autonomous, uh fully anonymous, um as regulators are trying to address these risks and trying to um find out um how, how to regulate,
+
+25:06
+Speaker 1 
+ take
+
+25:07
+Speaker 2 
+ a step further back, um,
+
+25:11
+Speaker 1 
+ can
+
+25:11
+Speaker 2 
+ you comment on any uh lessons that you think regulators or individuals or even themselves have learned since the passage of Wyoming or regulations elsewhere, um, that impacts, dials either directly or indirectly.
+
+25:31
+Speaker 1 
+ I can't think of anything.
+
+25:36
+Speaker 2 
+ I
+
+25:36
+Speaker 1 
+ mean, what what regulators you're doing is they're creating, legal structures inside their regulatory frameworks that, they can pop down into. Alright, that's effectively what they're doing. That's what the Wyoming is, That's what the Marshall Islands now, Is there just, a convenient box that has a regulatory regime? That is not the similar to corporate regulations? Um, and they, they said they tell the world, hey, if you've got a ow, you can pop your dial into this box here, and we'll recognize it will allow it to legally operate, will allow to sign contracts, will allow it to uh, um, transact if you will have a bank account. Um whereas obviously, a doubt on its own, um, has no collective way of doing that. Uh, there are solutions for that, don't require regulations. Um
+
+26:44
+Speaker 2 
+ I
+
+26:44
+Speaker 1 
+ suppose one could argue that the uh the Swiss Association model is, is, is an example of that where the Swiss Association is the one doing all the legal contracting, The one that has the bank accounts and things like that, um, and operates within the confines of in this case, uh, regulations of Switzerland and
+
+27:07
+Speaker 2 
+ but
+
+27:07
+Speaker 1 
+ the Dow isn't in the association, the dow is this Amorphous, ideally anonymous, um, decision making body, that tells the association what to do.
+
+27:24
+Speaker 2 
+ Okay.
+
+27:24
+Speaker 1 
+ And if the dow is fully properly structured, one could argue that, um, it is a true dial.
+
+27:37
+Speaker 2 
+ True,
+
+27:38
+Speaker 1 
+ but it's not, it's a, it's a true down in the sense that it doesn't have a regulatory framework other than its own, that is developed for itself,
+
+27:48
+Speaker 2 
+ but
+
+27:49
+Speaker 1 
+ its actions within the real world, if you will, or within the legacy, uh, poor socio, political and financial infrastructures of the world, its actions are limited by the action, by the limitations on the association.
+
+28:07
+Speaker 2 
+ Okay. So, I mean, I think we've addressed
+
+28:12
+Speaker 1 
+ a
+
+28:12
+Speaker 2 
+ lot of the primary issues, I think, um, I, I thought of a bonus question, which you get to, uh, it's a, it's one or another question, which, uh, you can choose either if you were a regulator,
+
+28:30
+Speaker 1 
+ what
+
+28:30
+Speaker 2 
+ are the, um, you know, quick fire, what are the top three things that you would want a, uh, law to address? And or if you were, uh, a member looking to register a hou,
+
+28:44
+Speaker 1 
+ where
+
+28:45
+Speaker 2 
+ would you choose to register it? And why
+
+28:51
+Speaker 1 
+ hmm,
+
+28:53
+Speaker 2 
+ Who shoes do you want to
+
+28:54
+Speaker 1 
+ help? But, as a regulator, what structures would I want to? Okay. Well, okay. What kind of a regulator? Am I am a regulator? This is afraid of, um, freedom, I suppose to be the way I put it, uh, because freedom, you know, is both a thing, we we we we all strive for, um as a, as a as as human beings, but it's also a very risky uh concept because uh it is insecure, it is by nature insecure. Because if you have freedom and the assumption being, everyone has freedom, then, committing a crime is your right
+
+29:51
+Speaker 2 
+ mm
+
+29:53
+Speaker 1 
+ an
+
+29:53
+Speaker 2 
+ interesting way to look at
+
+29:54
+Speaker 1 
+ it, you are free committing a crime is your right, you have the right to commit a crime, you don't have the right to get away with it, but you have the right to commit it, right, consequences, are consequences, right. All actions have consequences, and and that's a that's a call that a natural law, if you will, right, it's not really a lot, well, it's a lot of the way Newton's law is the law, uh, um you know, it's, it's, it's a very, very strongly founded theory. Yeah, lots of empirical evidence, but
+
+30:31
+Speaker 2 
+ if
+
+30:31
+Speaker 1 
+ you want to give people freedom, then I don't think you'd worry about regulating dowse, uh you would treat it the same way you treat corporations, right? Uh I mean, you know, but with more freedom, um, the idea being is that if you, if you as an organization or even as an individual, let's be fair, this comes the, the laws around corporations and individuals really aren't all that different, um you know, uh criminal law, and uh and you know, crime and misdemeanors, bad behavior, all that fun stuff that we socially have a, we have a social contract if you will, uh that says that these things are bad and these things are good. Um and there's a bunch of stuff in the middle that is kind of just it is, and, you know, as long as it's not attending towards the bad side, it's all good, people think of freedom as anarchy, um, freedom isn't anarchy, Freedom is there are rules, And the ruler is society not one guy, or, or, you know, congress, or whatever, those are proxies for society. Um, ideally the ruler is society, and there's a social contract, right, Killing someone is a bad thing to do unless it's in self defense. Um, Right, uh taking somebody else's property is a bad thing to do. Um, and yet governments do it all the time.
+
+32:07
+Speaker 2 
+ Um
+
+32:10
+Speaker 1 
+ the, if you, if you think about from a freedom, you're a regulator who's focused on freedom, then regulating Dallas is just saying we accept that do exist, and they will be a doubt will be treated like any other um, participant in society. Oh, and these are the methodologies under which we hold accountable, right, because you have to be accountable for your actions. That's just, that's just fundamentals, right. Um, everyone uh understands that when you act in society, you're accountable for your actions, because invariably there are witnesses, right, of some kind or another right, either witnesses to you doing the act, or witnesses to the results of the act of which, you know, evidenciary, uh, policing, which we have, uh, we'll track down what happened, uh, or ideally, we'll track down what happened
+
+33:15
+Speaker 2 
+ if
+
+33:16
+Speaker 1 
+ you're a regulator, though, this is the, this is the whole, this discussion was all based on the premise that you are regular looking to maintain and or increase freedom if you're a regulator intent on, uh, enforcing, and possibly increasing security, which is almost the antithesis of freedom. Uh, now you have to say, okay, I've got this thing out there that could do almost anything. And, while it's accountable, I want to prevent it from doing bad things rather than wait for it to do a bad thing and then punish it. Mm, Right. And if I'm gonna, if I'm going to say no, I'm gonna stop you from doing a bad thing. Well, now I have to look at it and say, can I stop an actual and the answer, you know, if they stop and think about it long enough, we'll be well, no. So I have to make dowse bad things, You form a doubt, you're doing a bad thing because we can't secure, our social contracts, against this amorphous, anonymous, uh, thing, and that's not secure. And since we have this focus on, you know, making everybody's world more secure, uh, we can't allow this to happen.
+
+34:49
+Speaker 2 
+ I think you've successfully, uh, define the range of regulatory concerns that it seems there
+
+34:58
+Speaker 1 
+ that
+
+34:58
+Speaker 2 
+ regulators consistently try to address, uh, risk without stifling innovation or, uh, business or pre market, but indeed, a regulator has to do,
+
+35:11
+Speaker 1 
+ you know,
+
+35:11
+Speaker 2 
+ something to address risk for the people. So, that's, uh, you know, in that question, if you're a regulator, what would you do? Um, you definitely hit the entire scope, so, um, that that was a little bit more of a comprehensive answer than perhaps
+
+35:31
+Speaker 1 
+ salaries, I
+
+35:35
+Speaker 2 
+ appreciate it. And I think that takes
+
+35:37
+Speaker 1 
+ up
+
+35:37
+Speaker 2 
+ to, um, the, uh, end of the interview, I think that we've got all the questions
+
+35:42
+Speaker 1 
+ I can give you, I can ask your last one too if you want a quick one. Oh
+
+35:46
+Speaker 2 
+ yeah, go ahead. That's great.
+
+35:48
+Speaker 1 
+ Um, if I'm setting up a doubt today in this world. Mhm. I am not registering the dow if Okay, this is, presupposing I actually want to do a, a real ow, I don't I don't just want to do an organization that I'm gonna call it. Right. I'm, I'm doing it currently the benchmark for making a dow is you your decisions are recorded in software and software, automates the proposal to decision to action, Uh, process, you do that and boom, you're well, that's not true. Not even close. Um, automation is, is wonderful and you definitely need it for a doubt, but this the same automation that people tout as platforms could be used to run corporations, LLCS partnerships, you name it? Alright. Uh, it does not necessarily, the software does not necessarily enforce decentralization, it does not necessarily enforce autonomy. Uh And if you're not doing both of those, you're not a doubt, simple as that. Um, So if I was to pick a place to do a dow it would be, I would suggest that the dow would sell form without registration, and once it was, formally structured and it was doing its decentralized and autonomous thing, it would simply choose the appropriate uh jurisdiction for the activities that wants to do right. If it's gonna say it's a private equity dial then probably would want to have it based in the Cayman islands or uh B bi or multi um London, as a limited uh private fund limited partnership. Um Where the dow was the G. P. Um, It doesn't matter because, the members of the dow are not, um, in the organization that is doing the actual transactional volume for this thing, they are just in control of it,
+
+38:15
+Speaker 2 
+ if
+
+38:15
+Speaker 1 
+ that makes sense,
+
+38:16
+Speaker 2 
+ yep that that that does it's a it's a fine line.
+
+38:21
+Speaker 1 
+ It is, it's a very fine line. Uh But you know the the idea being is
+
+38:26
+Speaker 2 
+ that you
+
+38:27
+Speaker 1 
+ set up a first, you get the governing components and the decentralization and the autonomy sorted first and then you say where do I need to put, bye feet on the ground in the real world in order to accomplish the things I want to accomplish. If you want to be a a reet, then you might set up relationships with lawyers in every jurisdiction that you want to buy and sell real estate in. And you would the dow through its automated systems would instruct lawyers in the appropriate jurisdictions, purchase that property, uh, uh sell that property, transfer funds here there and the other other other places, depending on where they want to allocate resources and things like that. And it would literally be a, web of, lawyers around the world that are collectively being managed by this decentralized autonomous organization.
+
+39:35
+Speaker 2 
+ Mm
+
+39:40
+Speaker 1 
+ I
+
+39:40
+Speaker 2 
+ wonder if there, wonderful get to that
+
+39:44
+Speaker 1 
+ state
+
+39:45
+Speaker 2 
+ to get, we'll get to those perfect dials. I wonder if they're out there and we don't know about them.
+
+39:50
+Speaker 1 
+ Well that's that's a very good point are they out there already?
+
+39:57
+Speaker 2 
+ Very interesting. I think that's a good note to uh
+
+40:01
+Speaker 1 
+ to end
+
+40:02
+Speaker 2 
+ on and I appreciate your time and we all appreciate your
+
+40:05
+Speaker 1 
+ time
+
+40:06
+Speaker 2 
+ for this interview and I will uh call now and then I will give you a call right back. Alrighty.
+
+40:16
+Speaker 1 
+ Thanks.
+
