@@ -1,48 +1,26 @@
-https://recordings.tapeacall.com/t/HKXwY25Ac2w3
-
 00:04
 Speaker 1 
- Hi, good morning,
-
-00:05
-Speaker 2 
- Marco anna bailey. Um, thanks for taking the time
-
-00:09
-Speaker 1 
- for
-
-00:09
-Speaker 2 
- this, um, interview for the purpose of a milestone for a dial project. Um, first off. Um, would you like to just, uh, introduce yourself and let us know what your experience maybe with
+ Hi, good morning, Marco Aniballi. thanks for taking the time.  This interview is for the purpose of a milestone for a DAO project. First off, would you like to just introduce yourself and let us know what your experience maybe with DAO's?
 
 00:29
-Speaker 1 
- Sure. Uh, my name is, uh, and, uh, I officially currently operate a Swiss Association, which is the legal shield for a dial that operates the developer fund, uh, initially sponsored by Casper labs, uh, Casper Association and the Casper network at large. Um, their focus is on building, uh, or funding the building of, uh, research and, or software development that furthers decentralization in an open source way. Um, aside from that, I've been consulting on the design of dowse for three years now. Um, and most recently, uh, I'm setting up to other, uh, protocol dowse. These would be that are designed to run the layer one protocol, uh, for a particular project, uh, therefore deciding on, you know, what updates get done, what updates don't what features need to be done and not done and do any tweaks needs to be done to the, uh, the, the way that protocol works itself. So things like seniors rates, changes, uh, allocations of the treasury, those kinds of things?
+Speaker 2 
+ Sure.  My name is, Marco Aniballi, I officially currently operate a Swiss Association, which is the legal shield for a DAO that operates the developer fund, initially sponsored by Casper labs, Casper Association and the Casper network at large. Their focus is on building or funding the building of research and or software development that furthers decentralization in an open source way. Aside from that, I've been consulting on the design of DAO's for three years now. And most recently,  I'm setting up 2 other protocol DAOs. These would be DAO's that are designed to run the layer one protocol for a particular project, therefore deciding on, you know, what updates get done, what updates don't what features need to be done and not done and do any tweaks needs to be done to the the way that protocol works itself. So things like  rates, changes, allocations of the treasury, those kinds of things.
 
 01:57
-Speaker 2 
+Speaker 1 
  That's great. Thank you. And thanks for taking the time for this conversation.
 
 02:01
-Speaker 1 
- My
-
-02:01
 Speaker 2 
- pleasure.
+ My pleasure.
 
 02:02
 Speaker 1 
- Great. So
-
-02:03
-Speaker 2 
- there's, uh, three questions. And the first question is, uh, what do you believe has been the intent of many legislative and regulatory efforts to regulate dowse, including the, uh, Wyoming regulation
+ Great. So there's,  three questions. And the first question is, what do you believe has been the intent of many legislative and regulatory efforts to regulate DAO's, including the Wyoming regulation
 
 02:19
-Speaker 1 
- and when you, and this, this is, uh, one can draw almost direct line parallel to Cryptocurrency and the regulator, the regulatory attempts to regulate Cryptocurrency. Um, we're seeing the sort of the ongoing fall out of that currently, um, where Cryptocurrency is a, concept, I suppose the best way to put it, uh, founded in the idea that regulation is unnecessary. Um, and we could dig deeply into that if if you want. But for now, um, a dow is the same, conceptually in the sense that it is a, an organization collective, uh, organization of people, uh in a structure that, is ideally not requiring regulation, uh, because the, things that regulators normally take care of, if you will, uh, are handled by the definitions of the software that allows the doubt to operate. Uh, not that a down necessarily requires software, but software is the, uh, the world we live in now, where we, we start to realize that software can do a lot of the things that used to be, uh, used to require a third, trusted third parties for verification, for accountability and things like that. And our new world Blockchain, uh, environment allows for the, uh, software driven management of accountability, and uh, responsibility for actions, uh, removing the need to have the lawyer check everything twice and uh, and, uh, board of directors, uh, overseeing executive actions, those kinds of things. Cool. Excuse me. Um, so I think when you see regulators coming in and trying to, uh, define, uh, in a regulatory framework, you have a bit of a problem, because, while one can argue doubts, don't have legal standing, uh because they're not registered anywhere or regulated in any way, um, they don't, need it either. Uh and this is the, the conundrum we run run up against because it's very difficult to bring a new model, if you will, uh, into our existing worlds ecosystems, um, without having people able to sort of in their head, understand this is what it is, they need some kind of a paradigm or a metaphor that they're comfortable with already. And Dallas don't really provide that the pure concept of a doubt, because it is literally something brand spanking new. Uh, so the attempt currently has been by regulators to say, well, fine, we don't really understand or don't really wanna look too deeply in some cases into what really should be, we're gonna look at it and say, okay, let's, let's see what we can do with with the concept of, and as you saw in Wyoming and the Marshall Islands and uh I'm sure there's others out there, uh that will be putting their horns soon that there's a legal rec recognition of dowse is not legal recognition of dowse, it is definition of a regulated herbal doubt. Uh the Wyoming, for example, when I read the legislation, I I
+Speaker 2 
+One can draw almost direct line parallel to Cryptocurrency abd the regulatory attempts to regulate Cryptocurrency. We're seeing the sort of the ongoing fallout of that currently where Cryptocurrency is a concept, I suppose the best way to put it, founded in the idea that regulation is unnecessary. And we could dig deeply into that if if you want. But for now, a DAO is the same, conceptually in the sense that it is an organization collective,  organization of people, in a structure that is ideally not requiring regulation because the things that regulators normally take care of, if you will,  are handled by the definitions of the software that allows the DAO to operate. Not that a DAO necessarily requires software, but software is  the world we live in now, where we, we start to realize that software can do a lot of the things that used to be,  used to require a third, trusted third parties for verification, for accountability and things like that. And our new world Blockchain environment allows for the software driven management of accountability, and, responsibility for actions,  removing the need to have the lawyer check everything twice and, board of directors overseeing executive actions, those kinds of things.  So I think when you see regulators coming in and trying to, uh, define, uh, a DAO in a regulatory framework, you have a bit of a problem, because, while one can argue doubts don't have legal standing, uh because they're not registered anywhere or regulated in any way,  they don't, need it either. And this is the conundrum we run run up against because it's very difficult to bring a new model, if you will, into our existing worlds ecosystems,  without having people able to sort of in their head, understand this is what it is, they need some kind of a paradigm or a metaphor that they're comfortable with already. And DAO's don't really provide that - the pure concept of a DAO - because it is literally something brand spanking new. So the attempt currently has been by regulators to say, well, fine, we don't really understand or don't really wanna look too deeply in some cases into what really should be, we're gonna look at it and say, okay, let's, let's see what we can do with with the concept of, and as you saw in Wyoming and the Marshall Islands and uh I'm sure there's others out there, uh that will be tooting their horns soon that there's a legal rec recognition of DAO's...  it;s not legal recognition of dowse, it is definition of a regulatable DAO . Uh the Wyoming, for example, when I read the legislation, I I
 
 06:32
 Speaker 2 
@@ -566,25 +544,5 @@ Speaker 1
 
 39:57
 Speaker 2 
- Very interesting. I think that's a good note to uh
-
-40:01
-Speaker 1 
- to end
-
-40:02
-Speaker 2 
- on and I appreciate your time and we all appreciate your
-
-40:05
-Speaker 1 
- time
-
-40:06
-Speaker 2 
- for this interview and I will uh call now and then I will give you a call right back. Alrighty.
-
-40:16
-Speaker 1 
- Thanks.
+ Very interesting. I think that's a good note to end on and I appreciate your time and we all appreciate your time.
 
